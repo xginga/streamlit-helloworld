@@ -1,0 +1,10 @@
+https://qiita.com/ozaki_physics/items/13466d6d1954a0afeb3b
+↑これの通りに環境を再現するように準備しておく。
+(DropboxのWorkspace/Sample/Streamlitに移動)
+conda env export > stenv.yml
+
+このフォルダ上に環境構築したファイルの元ネタを格納しておく。
+
+30Days of Streamlit
+https://30days-tmp.streamlit.app/
+
